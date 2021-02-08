@@ -1,0 +1,63 @@
+header {
+  background-color: rgb(245, 232, 208);
+  text-align: justify;
+  padding: 2rem;
+color: inherit;
+}
+head {
+  background-color: rgb(245, 232, 208);
+}
+body {
+  background-color: papayawhip;
+  text-align: justify;
+}
+h1 {
+  color: rgba(44, 44, 44, 0.842);
+  font-family: Verdana;
+  text-align: center;
+  text-overflow: initial;
+  text-decoration-line: underline;
+  text-decoration-style:dashed;
+  font-size: 14mm;
+  font-weight: bold;
+}
+ul {
+  text-align: justify;
+  list-style: none;
+
+}
+
+#repaso {
+  text-align: center;
+}
+
+#sets {
+  color: #db5050;
+
+}
+
+h3 {
+  letter-spacing: 1px;
+  line-height: 2mm;
+}
+
+span {
+  font-weight: bold;
+}
+
+iframe {
+  border-radius: 10%;
+  border-style: groove;
+}
+
+.contactarse {
+  color: #db5050;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.6cm;
+}
+
+section {
+  font-family:monospace;
+  letter-spacing: 0.6mm;
+  word-spacing: 1mm;
+}
