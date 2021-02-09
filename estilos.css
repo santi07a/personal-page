@@ -55,17 +55,18 @@ a:hover {
 span {
   font-weight: bold;
 }
-iframe:hover {
-  border-radius: 50%;
-  transition: all 0.5s;
+ul iframe:hover {
+  border-radius: 20%;
  cursor: pointer;
- transform: rotate(9000deg);
+ transform: rotate(9000deg) scale(1.2);
+ box-shadow: 5px 5px 15px #000 ;
 }
 
-iframe {
+ul iframe {
   border-radius: 10%;
   border-style: groove;
-  transition: 0.3s;
+  transform: rotate(0deg);
+transition: all 0.7s ease-in-out;
 
 }
 
